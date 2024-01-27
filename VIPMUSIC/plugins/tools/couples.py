@@ -3,7 +3,7 @@ from datetime import datetime
 
 from pyrogram import filters
 
-from VIPMUSIC.mongo.couples_db import _get_image, get_couple, save_couple
+from VIPMUSIC.mongo.couples_db import get_couple, save_couple
 from VIPMUSIC import app
 
 # <=======================================================================================================>
